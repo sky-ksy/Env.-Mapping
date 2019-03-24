@@ -1,7 +1,10 @@
 #Temp files
 *.asv
 
-#folders
+#Data files
 data/
 groupMedianAP/
 mediaAP/
+
+#Deprecated
+main.m
