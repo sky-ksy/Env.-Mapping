@@ -1,0 +1,7 @@
+#Temp files
+*.asv
+
+#folders
+data/
+groupMedianAP/
+mediaAP/
